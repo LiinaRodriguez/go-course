@@ -8,7 +8,7 @@ import (
 func main() {
 
 	s := "gopher"
-	fmt.Println("Hello and welcome, %s!", s)
+	fmt.Printf("Hello and welcome, %s! \n\n", s)
 
-	week02.Variables()
+	week02.AreasPerimeters()
 }
